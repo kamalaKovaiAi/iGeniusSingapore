@@ -1,2 +1,0 @@
-# iGeniusSingapore
-Microsoft Partner
