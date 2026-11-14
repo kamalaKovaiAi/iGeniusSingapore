@@ -99,8 +99,11 @@ header.site-header {
 }
 .brand {
   display: flex; align-items: center; gap: .6rem;
-  font-weight: 800; font-size: 1.25rem; color: var(--navy);
+  font-weight: 800; font-size: 1.25rem; color: #134a96;
   text-decoration: none;
+}
+.brand-name {
+  color: #134a96;
 }
 .brand img { height: 32px; width: auto; max-width: 135px; object-fit: contain; }
 .logo-chip {

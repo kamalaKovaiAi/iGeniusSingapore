@@ -13,7 +13,7 @@
     <div class="container nav-wrap">
       <NuxtLink to="/" class="brand" aria-label="iGenius Singapore home">
         <span class="brand-mark">iG</span>
-        <span>iGenius</span>
+        <span class="brand-name">iGenius</span>
       </NuxtLink>
 
       <button
